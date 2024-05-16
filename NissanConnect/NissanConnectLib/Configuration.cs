@@ -25,8 +25,8 @@
             {
                 Region.EU, new Dictionary<ConfigurationKey, string>
                 {
-                    { ConfigurationKey.ClientId, "a-ncb-prod-android" },
-                    { ConfigurationKey.ClientSecret, "0sAcrtwvwEXXZp5nzQhPexSRhxUVKa0d76F4uqDvxvvKFHXpo4myoJwUuV4vuNqC" },
+                    { ConfigurationKey.ClientId, "a-ncb-nc-android-prod" },
+                    { ConfigurationKey.ClientSecret, "6GKIax7fGT5yPHuNmWNVOc4q5POBw1WRSW39ubRA8WPBmQ7MOxhm75EsmKMKENem" },
                     { ConfigurationKey.Scope, "openid profile vehicles" },
                     { ConfigurationKey.AuthBaseUrl, "https://prod.eu2.auth.kamereon.org/kauth" },
                     { ConfigurationKey.Realm, "a-ncb-prod" },
