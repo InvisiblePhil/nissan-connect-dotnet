@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/hagronnestad/nissan-connect-dotnet/workflows/Nuget%20Release/badge.svg)](https://github.com/hagronnestad/nissan-connect-dotnet/actions/workflows/main.yml) [![Nuget](https://img.shields.io/nuget/v/NissanConnectLib)](https://www.nuget.org/packages/NissanConnectLib)
 
-This repository contains a C# .NET client library for the unofficial Nissan Connect API. This library is based on the great [dartnissanconnect](https://gitlab.com/tobiaswkjeldsen/dartnissanconnect)-library by [@Tobiaswk](https://github.com/Tobiaswk).
+This repository contains an ***unofficial*** C# .NET client library for the Nissan Connect API. This library is based on the great [dartnissanconnect](https://gitlab.com/tobiaswkjeldsen/dartnissanconnect)-library by [@Tobiaswk](https://github.com/Tobiaswk).
 
 ⚠️ This library supports the EU-region only. (I think?)
 
@@ -19,11 +19,11 @@ This repository contains a C# .NET client library for the unofficial Nissan Conn
 
 ## Example Program
 
-[An example program can be found here.](NissanConnect/NissanConnectLib.Example/Program.cs)
+[An example program can be found here.](NissanConnect/NissanConnectLib.Example/)
 
 *Output preview of the example program:*
 
-![](Screenshots/01-example-output.png)
+![](Screenshots/02-example-output-2.png)
 
 
 ## Nuget
